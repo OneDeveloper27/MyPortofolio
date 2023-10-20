@@ -28,4 +28,4 @@ I'll try to write more about My Journey until I can learn about Web 3.0..
 ## Learning Current Project
 
 I'm learning the Current Project using Blade Files..
-(SD Negeri Mertoyudan 1) [sdn-mertoyudan-1.sch.id]
+[SD Negeri Mertoyudan 1](https://sdn-mertoyudan-1.sch.id)
