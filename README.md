@@ -27,5 +27,5 @@ I'll try to write more about My Journey until I can learn about Web 3.0..
 
 ## Learning Current Project
 
-I'm learning the Current Project using Blade Files..
+I'm learning the Current Project using Blade Files.. <br/>
 [SD Negeri Mertoyudan 1](https://sdn-mertoyudan-1.sch.id)
